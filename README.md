@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet consiste à analyser le fichier [ADECal.ics](https://github.com/Skallr2/SAE15-Projet/blob/389e7aa5a299da268c58264f6fde47273a69dd21/ADECal.ics) extrait de ADE, contenant l'intégralité des cours organisés l'année dernière dans le département R&T de l'IUT. Le but est de réaliser un pré-traitement, un traitement des données, et de présenter les résultats sous forme d'un document professionnel.
+Ce projet consiste à analyser le fichier [ADECal.ics](https://github.com/peternmuller/SAE15-Projet/blob/389e7aa5a299da268c58264f6fde47273a69dd21/ADECal.ics) extrait de ADE, contenant l'intégralité des cours organisés l'année dernière dans le département R&T de l'IUT. Le but est de réaliser un pré-traitement, un traitement des données, et de présenter les résultats sous forme d'un document professionnel.
 
 ## Étapes du projet
 
@@ -22,7 +22,7 @@ Ce projet consiste à analyser le fichier [ADECal.ics](https://github.com/Skallr
 
 ### Étape 4 : Restitution des travaux
 
-- La réponse à la problématique est présentée dans [ce document](https://github.com/Skallr2/SAE15-Projet/blob/389e7aa5a299da268c58264f6fde47273a69dd21/SA%C3%8915%20-%20Projet%20-%20Le%20Touz%C3%A9%20-%20Muller%20-%20Custodio.pdf) au format .pdf.
+- La réponse à la problématique est présentée dans [ce document](https://github.com/peternmuller/SAE15-Projet/blob/389e7aa5a299da268c58264f6fde47273a69dd21/SA%C3%8915%20-%20Projet%20-%20Le%20Touz%C3%A9%20-%20Muller%20-%20Custodio.pdf) au format .pdf.
 - Nous avons rédigé le document comme un compte-rendu professionnel, avec illustrations (graphiques, exemples, etc.).
 - Nous avons géré les fichiers, scripts, et le document avec Git.
 - Nous avons déposé l'ensemble sur ce répertoire GitHub avant le 16/01/2024 à 18h00.
